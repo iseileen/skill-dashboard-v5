@@ -1473,7 +1473,7 @@ window.DASHBOARD_DATA = {
               text: "挑真的會壞的東西",
               desc: "data.js 的語法，就是你這三週真的弄壞過的那一種錯。",
               done: false,
-            },
+            }
             {
               text: "node --check",
               desc: "只驗語法、不執行檔案，通過的時候什麼都不印——沒消息就是好消息。",
