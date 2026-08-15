@@ -25,7 +25,7 @@ window.DASHBOARD_DATA = {
           points: [
             {
               text: "為什麼是 Git？",
-              desc: "版本控制是整個自動化流程的起點，所以課程從它開始。OOOOOXXXXXX>>>>DAFDFKDAFKDFa",
+              desc: "版本控制是整個自動化流程的起點，所以課程從它開始。",
               done: false,
             },
             {
