@@ -10,7 +10,7 @@
 
 window.DASHBOARD_DATA = {
   profile: {
-    name: "阿劍",
+    name: "凌之",
     lang: "JavaScript",
   },
   sections: [
@@ -31,7 +31,7 @@ window.DASHBOARD_DATA = {
             {
               text: "為什麼不學 AI 就好？",
               desc: "AI 的產出你要能驗收、能退回，因此還是要學習基本功。",
-              done: false,
+              done: true,
             },
             {
               text: "為什麼不直接實作？",
